@@ -1,6 +1,6 @@
 
 1. Create and login  heroku account
-2. Create ProcFile
+2. Create ProcFile and change web to public
 3. Commit changes "git push heroku master"
 4. Change AppServiceProvider to this
 namespace App\Providers;
